@@ -10,7 +10,7 @@
     "crosswalk": "node src/crosswalk.js"
   },
   "dependencies": {
-    "node-fetch": "^3.2.6",
+    "node-fetch": "^3.2.10",
     "papaparse": "^5.3.2"
   }
 }
